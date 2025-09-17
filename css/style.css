@@ -1,4 +1,9 @@
 /********** Template CSS **********/
+body {
+
+    background-color: #dcdcdc  !important;
+}
+
 :root {
     --primary: #911615;
     --secondary: #8D9297;
